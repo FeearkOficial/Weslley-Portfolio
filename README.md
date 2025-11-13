@@ -51,7 +51,7 @@ Minha caixa de ferramentas está sempre crescendo:
 
 Aqui você pode ver um pouco da minha atividade no GitHub.
 
-**(IMPORTANTE: Substitua `FeearkDev` pelo seu nome de usuário para estes links funcionarem!)**
+**(IMPORTANTE: Substitua `FeearkOficial` pelo seu nome de usuário para estes links funcionarem!)**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
